@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+input {
+  padding: 10px 26px;
+  border-radius: 16px;
+  margin: 10px;
+  border: none;
+}
+ol li {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  padding: 10px;
+  margin: 15px;
+  text-align: start;
+
+  border: 1px solid black;
+  line-height: 25px;
+}
+span {
+  text-align: end;
+  list-style: auto;
+}
+
+.box {
+  width: 500px;
+  margin: auto;
+  background: cadetblue;
+  border-radius: 20px;
+  height: auto;
+  padding: 1px;
+  margin-top:40px;
+}
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 18px;
+}
